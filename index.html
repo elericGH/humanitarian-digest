@@ -19,20 +19,19 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      /* ADRA Brand Colours */
-      --primary: #007B5F;        /* ADRA Green */
-      --primary-dark: #005f49;   /* ADRA Green darkened for hover */
-      --primary-light: #e6f4f0;  /* ADRA Green tint for badges/backgrounds */
-      --secondary: #54585A;      /* ADRA Dark Grey */
-      --au-gold: #ffcc02;        /* Australian alert accent */
+      --primary: #007B5F;
+      --primary-dark: #005f49;
+      --primary-light: #e6f4f0;
+      --secondary: #54585A;
+      --au-gold: #ffcc02;
       --danger: #c0392b;
       --bg: #f2f5f4;
       --card: #ffffff;
-      --text: #000000;           /* ADRA Black */
-      --muted: #54585A;          /* ADRA Dark Grey */
+      --text: #000000;
+      --muted: #54585A;
       --border: #d9e5e2;
-      --weekly-border: #007B5F;  /* ADRA Green for weekly cards */
-      --daily-border: #54585A;   /* ADRA Dark Grey for daily cards */
+      --weekly-border: #007B5F;
+      --daily-border: #54585A;
     }
 
     body {
@@ -43,18 +42,18 @@
       padding-bottom: env(safe-area-inset-bottom);
     }
 
-    /* HEADER */
+    /* ── HEADER ── */
     header {
       background: var(--primary);
       color: white;
-      padding: 16px 20px;
-      padding-top: calc(16px + env(safe-area-inset-top));
+      padding: 12px 16px;
+      padding-top: calc(12px + env(safe-area-inset-top));
       position: sticky;
       top: 0;
       z-index: 100;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     }
 
@@ -63,38 +62,161 @@
       background: none;
       border: none;
       color: white;
-      font-size: 24px;
+      font-size: 26px;
       cursor: pointer;
-      padding: 0 8px 0 0;
+      padding: 0 4px 0 0;
       line-height: 1;
+      flex-shrink: 0;
     }
-
     header .back-btn.visible { display: block; }
 
-    header h1 {
-      font-family: 'Montserrat', sans-serif;
-      font-size: 17px;
-      font-weight: 700;
+    .header-logo {
+      display: flex;
+      align-items: center;
+      gap: 9px;
       flex: 1;
-      letter-spacing: 0;
+      min-width: 0;
     }
 
-    header .tagline {
+    .header-logo svg {
+      width: 36px;
+      height: 36px;
+      flex-shrink: 0;
+    }
+
+    .header-logo-text {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .header-logo-text .logo-name {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      color: white;
+      letter-spacing: 0.5px;
+      line-height: 1.1;
+    }
+
+    .header-logo-text .logo-tagline {
       font-family: 'Kaushan Script', cursive;
-      font-size: 11px;
-      opacity: 0.85;
-      display: block;
-      font-weight: 400;
+      font-size: 10px;
+      color: rgba(255,255,255,0.82);
+      line-height: 1.3;
       margin-top: 1px;
     }
 
-    header .flag { font-size: 22px; }
+    .header-actions {
+      display: flex;
+      gap: 4px;
+      flex-shrink: 0;
+    }
 
-    /* MAIN */
-    main { padding: 16px; max-width: 680px; margin: 0 auto; }
+    .icon-btn {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 19px;
+      cursor: pointer;
+      padding: 6px;
+      opacity: 0.85;
+      border-radius: 8px;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .icon-btn:active { opacity: 0.5; }
 
-    /* LIST VIEW */
-    #list-view {}
+    /* ── SEARCH BAR ── */
+    .search-wrap {
+      padding: 12px 16px 4px;
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .search-box {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .search-box .search-icon {
+      position: absolute;
+      left: 12px;
+      color: var(--muted);
+      font-size: 15px;
+      pointer-events: none;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 10px 12px 10px 36px;
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      font-family: 'Zilla Slab', Georgia, serif;
+      font-size: 14px;
+      color: var(--text);
+      background: var(--card);
+      outline: none;
+      -webkit-appearance: none;
+    }
+    .search-box input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(0,123,95,0.12);
+    }
+    .search-box input::placeholder { color: #aab5b1; }
+
+    .search-box .clear-btn {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 16px;
+      cursor: pointer;
+      padding: 4px;
+      display: none;
+    }
+    .search-box.has-value .clear-btn { display: block; }
+
+    /* ── FILTER CHIPS ── */
+    .filter-chips {
+      display: flex;
+      gap: 6px;
+      padding: 8px 16px 0;
+      max-width: 680px;
+      margin: 0 auto;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .filter-chips::-webkit-scrollbar { display: none; }
+
+    .chip {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+      background: var(--card);
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      transition: all 0.15s;
+      flex-shrink: 0;
+    }
+    .chip.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+    .chip:active { opacity: 0.7; }
+
+    /* ── MAIN ── */
+    main { padding: 12px 16px 16px; max-width: 680px; margin: 0 auto; }
 
     .section-label {
       font-family: 'Montserrat', sans-serif;
@@ -103,13 +225,13 @@
       text-transform: uppercase;
       letter-spacing: 1.2px;
       color: var(--secondary);
-      margin: 20px 0 10px;
+      margin: 16px 0 8px;
     }
 
     .digest-card {
       background: var(--card);
       border-radius: 12px;
-      padding: 16px;
+      padding: 14px 16px;
       margin-bottom: 10px;
       cursor: pointer;
       border-left: 4px solid var(--daily-border);
@@ -117,18 +239,14 @@
       transition: transform 0.15s, box-shadow 0.15s;
       -webkit-tap-highlight-color: transparent;
     }
-
     .digest-card:active { transform: scale(0.98); }
-
-    .digest-card.weekly {
-      border-left-color: var(--weekly-border);
-    }
+    .digest-card.weekly { border-left-color: var(--weekly-border); }
 
     .digest-card .card-top {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 6px;
+      margin-bottom: 5px;
     }
 
     .digest-card .type-badge {
@@ -143,27 +261,23 @@
       color: var(--primary);
     }
 
-    .digest-card.weekly .type-badge {
-      background: var(--primary-light);
-      color: var(--primary);
-    }
-
     .digest-card .card-date {
-      font-size: 12px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 11px;
       color: var(--muted);
     }
 
     .digest-card h3 {
       font-family: 'Montserrat', sans-serif;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
       line-height: 1.4;
       color: var(--text);
-      margin-bottom: 6px;
+      margin-bottom: 5px;
     }
 
     .digest-card .preview {
-      font-size: 13px;
+      font-size: 12px;
       color: var(--muted);
       line-height: 1.5;
       display: -webkit-box;
@@ -172,29 +286,31 @@
       overflow: hidden;
     }
 
-    .digest-card .au-flag {
-      display: inline-block;
-      margin-right: 4px;
+    mark {
+      background: rgba(0,123,95,0.15);
+      color: var(--primary-dark);
+      border-radius: 2px;
+      padding: 0 1px;
     }
 
+    /* ── EMPTY / NO RESULTS ── */
     .empty-state {
       text-align: center;
-      padding: 60px 20px;
+      padding: 50px 20px;
       color: var(--muted);
     }
-
-    .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
-    .empty-state h3 { font-family: 'Montserrat', sans-serif; font-size: 18px; margin-bottom: 8px; color: var(--text); }
+    .empty-state .icon { font-size: 44px; margin-bottom: 14px; }
+    .empty-state h3 { font-family: 'Montserrat', sans-serif; font-size: 17px; margin-bottom: 8px; color: var(--text); }
     .empty-state p { font-size: 14px; line-height: 1.6; }
 
-    /* DETAIL VIEW */
+    /* ── DETAIL VIEW ── */
     #detail-view { display: none; }
 
     .digest-meta {
       background: var(--card);
       border-radius: 12px;
-      padding: 14px 16px;
-      margin-bottom: 16px;
+      padding: 12px 16px;
+      margin-bottom: 14px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -211,7 +327,8 @@
     }
 
     .digest-meta .meta-date {
-      font-size: 13px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
       color: var(--muted);
     }
 
@@ -223,10 +340,9 @@
       line-height: 1.7;
     }
 
-    /* Markdown styles */
     .digest-content h1 {
       font-family: 'Montserrat', sans-serif;
-      font-size: 19px;
+      font-size: 18px;
       font-weight: 700;
       color: var(--primary);
       margin-bottom: 4px;
@@ -235,20 +351,17 @@
 
     .digest-content h2 {
       font-family: 'Montserrat', sans-serif;
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 700;
       color: var(--primary);
-      margin-top: 24px;
+      margin-top: 22px;
       margin-bottom: 10px;
       padding-bottom: 6px;
       border-bottom: 2px solid var(--primary);
     }
 
-    .digest-content h2:first-of-type { margin-top: 16px; }
-
-    /* Australian priority section — gold underline */
     .digest-content h2:first-of-type {
-      color: var(--primary);
+      margin-top: 14px;
       border-bottom-color: var(--au-gold);
     }
 
@@ -257,13 +370,10 @@
       font-size: 15px;
       margin-bottom: 12px;
       color: var(--text);
-      line-height: 1.7;
+      line-height: 1.75;
     }
 
-    .digest-content strong {
-      color: var(--primary);
-      font-weight: 600;
-    }
+    .digest-content strong { color: var(--primary); font-weight: 600; }
 
     .digest-content em {
       font-family: 'Montserrat', sans-serif;
@@ -276,25 +386,22 @@
     .digest-content hr {
       border: none;
       border-top: 1px solid var(--border);
-      margin: 20px 0;
+      margin: 18px 0;
     }
 
-    .digest-content ul {
-      padding-left: 18px;
-      margin-bottom: 12px;
-    }
+    .digest-content ul { padding-left: 18px; margin-bottom: 12px; }
 
     .digest-content li {
       font-family: 'Zilla Slab', Georgia, serif;
       font-size: 15px;
       margin-bottom: 6px;
-      line-height: 1.6;
+      line-height: 1.65;
     }
 
     .digest-content a {
       color: var(--primary);
       text-decoration: none;
-      border-bottom: 1px solid rgba(0, 123, 95, 0.35);
+      border-bottom: 1px solid rgba(0,123,95,0.35);
     }
 
     .digest-content blockquote {
@@ -305,7 +412,7 @@
       font-size: 14px;
     }
 
-    /* Loading */
+    /* ── LOADING ── */
     .loading {
       text-align: center;
       padding: 40px;
@@ -314,8 +421,8 @@
     }
 
     .spinner {
-      width: 32px;
-      height: 32px;
+      width: 30px;
+      height: 30px;
       border: 3px solid var(--border);
       border-top-color: var(--primary);
       border-radius: 50%;
@@ -325,37 +432,80 @@
 
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* Footer */
     .footer-note {
       text-align: center;
       font-size: 11px;
       color: var(--muted);
-      padding: 20px;
-      opacity: 0.6;
+      padding: 18px;
+      opacity: 0.55;
+      font-family: 'Montserrat', sans-serif;
     }
 
-    /* Refresh button */
-    .refresh-btn {
-      background: none;
-      border: none;
-      color: white;
-      font-size: 20px;
-      cursor: pointer;
-      padding: 4px;
-      opacity: 0.85;
+    /* ── SEARCH RESULTS COUNT ── */
+    .results-count {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 10px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 8px 0 2px;
     }
-
-    .refresh-btn:active { opacity: 0.5; }
   </style>
 </head>
 <body>
 
+<!-- ── HEADER ── -->
 <header>
   <button class="back-btn" id="back-btn" onclick="showList()">‹</button>
-  <h1 id="header-title">Humanitarian Digest <span class="tagline">Justice. Compassion. Love.</span></h1>
-  <span class="flag">🌍</span>
-  <button class="refresh-btn" onclick="loadDigests()" title="Refresh">↻</button>
+
+  <div class="header-logo" id="header-logo">
+    <!-- ADRA Vertical Logo (Globe Mark) — white SVG -->
+    <svg viewBox="0 0 80 90" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="ADRA">
+      <!-- Outer oval -->
+      <ellipse cx="40" cy="34" rx="36" ry="30" stroke="white" stroke-width="3.2" fill="none"/>
+      <!-- Centre figure (tallest) -->
+      <circle cx="40" cy="12" r="5.5" fill="white"/>
+      <path d="M40 17.5 C40 17.5 30 28 30 38 L50 38 C50 28 40 17.5 40 17.5Z" fill="white"/>
+      <!-- Left figure -->
+      <circle cx="20" cy="20" r="4.2" fill="white"/>
+      <path d="M20 24.2 C20 24.2 13 32 13 40 L27 40 C27 32 20 24.2 20 24.2Z" fill="white"/>
+      <!-- Right figure -->
+      <circle cx="60" cy="20" r="4.2" fill="white"/>
+      <path d="M60 24.2 C60 24.2 53 32 53 40 L67 40 C67 32 60 24.2 60 24.2Z" fill="white"/>
+      <!-- Lower globe bands -->
+      <path d="M5 46 Q40 52 75 46" stroke="white" stroke-width="2.2" fill="none"/>
+      <path d="M8 56 Q40 62 72 56" stroke="white" stroke-width="2.2" fill="none"/>
+      <!-- ADRA wordmark -->
+      <text x="40" y="83" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="white" letter-spacing="2">ADRA</text>
+    </svg>
+
+    <div class="header-logo-text" id="header-logo-text">
+      <span class="logo-name">Humanitarian Digest</span>
+      <span class="logo-tagline">Justice. Compassion. Love.</span>
+    </div>
+  </div>
+
+  <div class="header-actions">
+    <button class="icon-btn" onclick="loadDigests()" title="Refresh">↻</button>
+  </div>
 </header>
+
+<!-- ── SEARCH + FILTERS (list view only) ── -->
+<div id="search-area">
+  <div class="search-wrap">
+    <div class="search-box" id="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="search" id="search-input" placeholder="Search digests…" oninput="onSearch(this.value)" autocomplete="off" autocorrect="off" spellcheck="false" />
+      <button class="clear-btn" onclick="clearSearch()" aria-label="Clear search">✕</button>
+    </div>
+  </div>
+  <div class="filter-chips" id="filter-chips">
+    <button class="chip active" data-filter="all" onclick="setFilter('all')">All</button>
+    <button class="chip" data-filter="weekly" onclick="setFilter('weekly')">📋 Weekly</button>
+    <button class="chip" data-filter="daily" onclick="setFilter('daily')">⚡ Daily</button>
+    <button class="chip" data-filter="au" onclick="setFilter('au')">🇦🇺 Australia</button>
+  </div>
+</div>
 
 <main>
   <!-- LIST VIEW -->
@@ -373,14 +523,17 @@
       <span class="meta-date" id="detail-date"></span>
     </div>
     <div class="digest-content" id="detail-content"></div>
-    <div class="footer-note" style="margin-top:16px;">End of digest</div>
+    <div class="footer-note" style="margin-top:16px;">End of digest · Justice. Compassion. Love.</div>
   </div>
 </main>
 
 <script>
   const BASE = './digests/';
   let allDigests = [];
+  let activeFilter = 'all';
+  let searchQuery = '';
 
+  // ── LOAD ──
   async function loadDigests() {
     document.getElementById('digests-container').innerHTML =
       '<div class="loading"><div class="spinner"></div>Loading digests…</div>';
@@ -399,8 +552,54 @@
     }
   }
 
+  // ── FILTER + SEARCH ──
+  function getFiltered() {
+    let items = allDigests;
+    if (activeFilter === 'weekly') items = items.filter(d => d.type === 'weekly');
+    else if (activeFilter === 'daily') items = items.filter(d => d.type === 'daily');
+    else if (activeFilter === 'au') items = items.filter(d => d.hasAustralianAlert);
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase();
+      items = items.filter(d =>
+        (d.title || '').toLowerCase().includes(q) ||
+        (d.preview || '').toLowerCase().includes(q)
+      );
+    }
+    return items;
+  }
+
+  function setFilter(f) {
+    activeFilter = f;
+    document.querySelectorAll('.chip').forEach(c => {
+      c.classList.toggle('active', c.dataset.filter === f);
+    });
+    renderList();
+  }
+
+  function onSearch(val) {
+    searchQuery = val;
+    const box = document.getElementById('search-box');
+    box.classList.toggle('has-value', val.length > 0);
+    renderList();
+  }
+
+  function clearSearch() {
+    document.getElementById('search-input').value = '';
+    onSearch('');
+  }
+
+  // ── HIGHLIGHT search matches ──
+  function highlight(text, query) {
+    if (!query.trim()) return text;
+    const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark>$1</mark>');
+  }
+
+  // ── RENDER LIST ──
   function renderList() {
     const container = document.getElementById('digests-container');
+    const items = getFiltered();
+
     if (!allDigests.length) {
       container.innerHTML = `
         <div class="empty-state">
@@ -411,65 +610,88 @@
       return;
     }
 
-    const weekly = allDigests.filter(d => d.type === 'weekly');
-    const daily = allDigests.filter(d => d.type === 'daily');
+    if (!items.length) {
+      container.innerHTML = `
+        <div class="empty-state">
+          <div class="icon">🔍</div>
+          <h3>No results</h3>
+          <p>Try a different search term or filter.</p>
+        </div>`;
+      return;
+    }
+
+    const weekly = items.filter(d => d.type === 'weekly');
+    const daily  = items.filter(d => d.type === 'daily');
+    const q = searchQuery;
     let html = '';
+
+    if (searchQuery || activeFilter !== 'all') {
+      html += `<div class="results-count">${items.length} result${items.length !== 1 ? 's' : ''}</div>`;
+    }
 
     if (weekly.length) {
       html += '<div class="section-label">📋 Weekly Deep-Dives</div>';
-      weekly.forEach(d => html += cardHTML(d));
+      weekly.forEach(d => html += cardHTML(d, q));
     }
     if (daily.length) {
       html += '<div class="section-label">⚡ Daily Updates</div>';
-      daily.forEach(d => html += cardHTML(d));
+      daily.forEach(d => html += cardHTML(d, q));
     }
 
     container.innerHTML = html;
   }
 
-  function cardHTML(d) {
+  function cardHTML(d, q) {
     const date = new Date(d.date);
     const formatted = date.toLocaleDateString('en-AU', { weekday:'short', day:'numeric', month:'short', year:'numeric' });
-    const hasAU = d.hasAustralianAlert ? '🇦🇺 ' : '';
+    const auBadge = d.hasAustralianAlert ? '🇦🇺 ' : '';
+    const title   = highlight(d.title || '', q);
+    const preview = highlight(d.preview || '', q);
     return `
-      <div class="digest-card ${d.type}" onclick="openDigest('${d.filename}', '${d.type}', '${formatted}', '${d.title}')">
+      <div class="digest-card ${d.type}" onclick="openDigest('${d.filename}', '${d.type}', '${formatted}', '${(d.title||'').replace(/'/g,"\\'")}')">
         <div class="card-top">
           <span class="type-badge">${d.type === 'weekly' ? '📋 Weekly' : '⚡ Daily'}</span>
           <span class="card-date">${formatted}</span>
         </div>
-        <h3>${hasAU}${d.title}</h3>
-        <p class="preview">${d.preview || ''}</p>
+        <h3>${auBadge}${title}</h3>
+        <p class="preview">${preview}</p>
       </div>`;
   }
 
+  // ── OPEN DIGEST ──
   async function openDigest(filename, type, date, title) {
-    document.getElementById('list-view').style.display = 'none';
+    document.getElementById('list-view').style.display   = 'none';
     document.getElementById('detail-view').style.display = 'block';
+    document.getElementById('search-area').style.display = 'none';
     document.getElementById('back-btn').classList.add('visible');
-    document.getElementById('header-title').textContent = type === 'weekly' ? 'Weekly Digest' : 'Daily Update';
-    document.getElementById('detail-type').textContent = type === 'weekly' ? '📋 Weekly Deep-Dive' : '⚡ Daily Update';
+    document.getElementById('header-logo-text').querySelector('.logo-name').textContent =
+      type === 'weekly' ? 'Weekly Digest' : 'Daily Update';
+    document.getElementById('detail-type').textContent =
+      type === 'weekly' ? '📋 Weekly Deep-Dive' : '⚡ Daily Update';
     document.getElementById('detail-date').textContent = date;
-    document.getElementById('detail-content').innerHTML = '<div class="loading"><div class="spinner"></div>Loading…</div>';
+    document.getElementById('detail-content').innerHTML =
+      '<div class="loading"><div class="spinner"></div>Loading…</div>';
     window.scrollTo(0, 0);
 
     try {
       const res = await fetch(BASE + filename + '?t=' + Date.now());
-      const md = await res.text();
+      const md  = await res.text();
       document.getElementById('detail-content').innerHTML = marked.parse(md);
     } catch (e) {
       document.getElementById('detail-content').innerHTML = '<p>Could not load this digest.</p>';
     }
   }
 
+  // ── BACK ──
   function showList() {
-    document.getElementById('detail-view').style.display = 'none';
-    document.getElementById('list-view').style.display = 'block';
+    document.getElementById('detail-view').style.display   = 'none';
+    document.getElementById('list-view').style.display     = 'block';
+    document.getElementById('search-area').style.display   = 'block';
     document.getElementById('back-btn').classList.remove('visible');
-    document.getElementById('header-title').textContent = 'Humanitarian Digest';
+    document.getElementById('header-logo-text').querySelector('.logo-name').textContent = 'Humanitarian Digest';
     window.scrollTo(0, 0);
   }
 
-  // Service worker registration
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   }
