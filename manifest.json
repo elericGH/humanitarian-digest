@@ -5,8 +5,8 @@
   "start_url": "/humanitarian-digest/",
   "scope": "/humanitarian-digest/",
   "display": "standalone",
-  "background_color": "#1a4a6b",
-  "theme_color": "#1a4a6b",
+  "background_color": "#007B5F",
+  "theme_color": "#007B5F",
   "orientation": "portrait",
   "icons": [
     {
