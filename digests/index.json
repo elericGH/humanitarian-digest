@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-03-13-daily",
+    "date": "2026-03-13",
+    "type": "daily",
+    "title": "Daily Update \u2014 Friday, 13 March 2026",
+    "filename": "humanitarian-update-daily-2026-03-13.md",
+    "preview": "",
+    "hasAustralianAlert": true
+  },
+  {
     "id": "2026-03-12",
     "date": "2026-03-12",
     "type": "weekly",
