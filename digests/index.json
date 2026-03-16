@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-03-17-daily",
+    "date": "2026-03-17",
+    "type": "daily",
+    "title": "Daily Update \u2014 Tuesday, 17 March 2026",
+    "filename": "humanitarian-update-daily-2026-03-17.md",
+    "preview": "Australian aid coalition launches 15-agency Middle East Appeal; Iran conflict enters week 3 with 3.2M displaced; Gaza crossings remain sealed...",
+    "hasAustralianAlert": true
+  },
+  {
     "id": "2026-03-17",
     "date": "2026-03-17",
     "type": "weekly",
