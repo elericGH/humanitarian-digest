@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-04-02-daily",
+    "date": "2026-04-02",
+    "type": "daily",
+    "title": "Daily Update \u2014 Thursday, 2 April 2026",
+    "filename": "humanitarian-update-daily-2026-04-02.md",
+    "preview": "No new Australian priority releases in the past 24 hours. The most recent announcement was on 21 March 2026, when Austra...",
+    "hasAustralianAlert": true
+  },
+  {
     "id": "2026-04-01-daily",
     "date": "2026-04-01",
     "type": "daily",
