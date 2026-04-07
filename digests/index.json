@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-04-08-daily",
+    "date": "2026-04-08",
+    "type": "daily",
+    "title": "Daily Update \u2014 Wednesday, 8 April 2026",
+    "filename": "humanitarian-update-daily-2026-04-08.md",
+    "preview": "No new Australian priority releases in the past 24 hours. Australia's ongoing regional commitments remain active: the go...",
+    "hasAustralianAlert": true
+  },
+  {
     "id": "2026-04-07",
     "date": "2026-04-07",
     "type": "weekly",
