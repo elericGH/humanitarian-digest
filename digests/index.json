@@ -133,5 +133,14 @@
     "filename": "humanitarian-digest-weekly-2026-03-12.md",
     "preview": "ACFID calls for civilian protection as Middle East war escalates. Australia commits $50M for Afghanistan. Myanmar earthquake response ongoing. Sudan passes 1,000 days of war.",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-04-23-daily",
+    "date": "2026-04-23",
+    "type": "daily",
+    "title": "Daily Update \u2014 Thursday, 23 April 2026",
+    "filename": "humanitarian-update-daily-2026-04-23.md",
+    "preview": "No new items confirmed from Australian sources today. NZ floods: state of emergency in Wellington and Manawatu-Whanganui; one dead.",
+    "hasAustralianAlert": false
   }
 ]
