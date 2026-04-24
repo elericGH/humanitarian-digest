@@ -151,5 +151,14 @@
     "filename": "humanitarian-update-daily-2026-04-23.md",
     "preview": "No new items confirmed from Australian sources today. NZ floods: state of emergency in Wellington and Manawatu-Whanganui; one dead.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-04-25-daily",
+    "date": "2026-04-25",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 25 April 2026",
+    "filename": "humanitarian-update-daily-2026-04-25.md",
+    "preview": "Australia's Emergency Action Alliance — the 15-member coalition that channels Australian public donations into rapid international response — is",
+    "hasAustralianAlert": true
   }
 ]
