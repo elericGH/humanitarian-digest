@@ -178,5 +178,14 @@
     "filename": "humanitarian-update-daily-2026-04-25.md",
     "preview": "Australia's Emergency Action Alliance — the 15-member coalition that channels Australian public donations into rapid international response — is",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-04-30-daily",
+    "date": "2026-04-30",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 30 April 2026",
+    "filename": "humanitarian-update-daily-2026-04-30.md",
+    "preview": "GDACS satellite monitoring detected more than 20 active forest fire incidents across Australia between 27–29 April 2026, all assessed at Green alert",
+    "hasAustralianAlert": true
   }
 ]
