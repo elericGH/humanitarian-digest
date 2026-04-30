@@ -1,27 +1,36 @@
 [
   {
+    "id": "2026-05-01-daily",
+    "date": "2026-05-01",
+    "type": "daily",
+    "title": "Daily Update \u2014 Friday, 1 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-01.md",
+    "preview": "ACFID publishes analysis on US-Iran conflict; Australia engaged in Cyclone Maila response in PNG. Typhoon Sinlaku affects Micronesia; Tonga dengue outbreak ongoing.",
+    "hasAustralianAlert": true
+  },
+  {
     "id": "2026-04-28-daily",
     "date": "2026-04-28",
     "type": "daily",
-    "title": "Daily Update — Tuesday, 28 April 2026",
+    "title": "Daily Update \u2014 Tuesday, 28 April 2026",
     "filename": "humanitarian-update-daily-2026-04-28.md",
-    "preview": "Afghanistan — Multi-province floods kill at least 13. Heavy rain and thunderstorms across ten Afghan provinces (Kabul, Bamiyan, Paktia, Ghor...",
+    "preview": "Afghanistan \u2014 Multi-province floods kill at least 13. Heavy rain and thunderstorms across ten Afghan provinces (Kabul, Bamiyan, Paktia, Ghor...",
     "hasAustralianAlert": false
   },
   {
     "id": "2026-04-26-daily",
     "date": "2026-04-26",
     "type": "daily",
-    "title": "Daily Update — Sunday, 26 April 2026",
+    "title": "Daily Update \u2014 Sunday, 26 April 2026",
     "filename": "humanitarian-update-daily-2026-04-26.md",
-    "preview": "Tropical Cyclone Sinlaku-26 — which earlier peaked at category-equivalent winds of 287 km/h on 19 April — remains the regional centrepiece",
+    "preview": "Tropical Cyclone Sinlaku-26 \u2014 which earlier peaked at category-equivalent winds of 287 km/h on 19 April \u2014 remains the regional centrepiece",
     "hasAustralianAlert": false
   },
   {
     "id": "2026-04-24-daily",
     "date": "2026-04-24",
     "type": "daily",
-    "title": "Daily Update — Friday, 24 April 2026",
+    "title": "Daily Update \u2014 Friday, 24 April 2026",
     "filename": "humanitarian-update-daily-2026-04-24.md",
     "preview": "The Australian Council for International Development (ACFID) published new analysis titled \"Development in Reverse: Far reaching and long-lasting...",
     "hasAustralianAlert": true
@@ -30,7 +39,7 @@
     "id": "2026-04-08-daily",
     "date": "2026-04-08",
     "type": "daily",
-    "title": "Daily Update — Wednesday, 8 April 2026",
+    "title": "Daily Update \u2014 Wednesday, 8 April 2026",
     "filename": "humanitarian-update-daily-2026-04-08.md",
     "preview": "No new Australian priority releases in the past 24 hours. Australia's ongoing regional commitments remain active: the go...",
     "hasAustralianAlert": true
@@ -39,7 +48,7 @@
     "id": "2026-04-07",
     "date": "2026-04-07",
     "type": "weekly",
-    "title": "Weekly Digest — 1 Apr–7 Apr 2026",
+    "title": "Weekly Digest \u2014 1 Apr\u20137 Apr 2026",
     "filename": "humanitarian-digest-weekly-2026-04-07.md",
     "preview": "The Emergency Action Alliance (EAA), Australia's coalition of 15 leading aid charities, has an active Middle East Appeal...",
     "hasAustralianAlert": true
@@ -48,7 +57,7 @@
     "id": "2026-04-02-daily",
     "date": "2026-04-02",
     "type": "daily",
-    "title": "Daily Update — Thursday, 2 April 2026",
+    "title": "Daily Update \u2014 Thursday, 2 April 2026",
     "filename": "humanitarian-update-daily-2026-04-02.md",
     "preview": "No new Australian priority releases in the past 24 hours. The most recent announcement was on 21 March 2026, when Austra...",
     "hasAustralianAlert": true
@@ -57,7 +66,7 @@
     "id": "2026-04-01-daily",
     "date": "2026-04-01",
     "type": "daily",
-    "title": "Daily Update — Wednesday, 1 April 2026",
+    "title": "Daily Update \u2014 Wednesday, 1 April 2026",
     "filename": "humanitarian-update-daily-2026-04-01.md",
     "preview": "No new Australian priority releases in the past 24 hours....",
     "hasAustralianAlert": false
@@ -66,25 +75,25 @@
     "id": "2026-03-30",
     "date": "2026-03-30",
     "type": "weekly",
-    "title": "Weekly Digest — 24 Mar–30 Mar 2026",
+    "title": "Weekly Digest \u2014 24 Mar\u201330 Mar 2026",
     "filename": "humanitarian-digest-weekly-2026-03-30.md",
-    "preview": "Myanmar: Civilian Casualties Mount Amid Ongoing Civil War — Conflict continued to ravage Myanmar this week, with OCHA documenting drone strikes on civilians and 16.2 million people in need...",
+    "preview": "Myanmar: Civilian Casualties Mount Amid Ongoing Civil War \u2014 Conflict continued to ravage Myanmar this week, with OCHA documenting drone strikes on civilians and 16.2 million people in need...",
     "hasAustralianAlert": true
   },
   {
     "id": "2026-03-25-daily",
     "date": "2026-03-25",
     "type": "daily",
-    "title": "Daily Update — Wednesday, 25 March 2026",
+    "title": "Daily Update \u2014 Wednesday, 25 March 2026",
     "filename": "humanitarian-update-daily-2026-03-25.md",
-    "preview": "Australia–FSM Maritime Partnership — Foreign Minister Penny Wong welcomed FSM President Wesley Simina to Canberra on 24 ...",
+    "preview": "Australia\u2013FSM Maritime Partnership \u2014 Foreign Minister Penny Wong welcomed FSM President Wesley Simina to Canberra on 24 ...",
     "hasAustralianAlert": true
   },
   {
     "id": "2026-03-24-daily",
     "date": "2026-03-24",
     "type": "daily",
-    "title": "Daily Update — Tuesday, 24 March 2026",
+    "title": "Daily Update \u2014 Tuesday, 24 March 2026",
     "filename": "humanitarian-update-daily-2026-03-24.md",
     "preview": "The broader Middle East conflict is now producing cascading humanitarian effects across Asia-Pacific through energy and ...",
     "hasAustralianAlert": true
@@ -93,7 +102,7 @@
     "id": "2026-03-23",
     "date": "2026-03-23",
     "type": "weekly",
-    "title": "Weekly Digest — 17 Mar–23 Mar 2026",
+    "title": "Weekly Digest \u2014 17 Mar\u201323 Mar 2026",
     "filename": "humanitarian-digest-weekly-2026-03-23.md",
     "preview": "Australia's Emergency Action Alliance (EAA) united on 17 March 2026 to launch a joint Middle East Appeal, raising funds ...",
     "hasAustralianAlert": true
@@ -102,7 +111,7 @@
     "id": "2026-03-20-daily",
     "date": "2026-03-20",
     "type": "daily",
-    "title": "Daily Update — Friday, 20 March 2026",
+    "title": "Daily Update \u2014 Friday, 20 March 2026",
     "filename": "humanitarian-update-daily-2026-03-20.md",
     "preview": "ACFID's Emergency Action Alliance (EAA) has an active consolidated appeal for the Middle East humanitarian crisis, with ...",
     "hasAustralianAlert": true
@@ -111,7 +120,7 @@
     "id": "2026-03-18-daily",
     "date": "2026-03-18",
     "type": "daily",
-    "title": "Daily Update — Wednesday, 18 March 2026",
+    "title": "Daily Update \u2014 Wednesday, 18 March 2026",
     "filename": "humanitarian-update-daily-2026-03-18.md",
     "preview": "Save the Children calls for aid-defence parity; UN flights into Yemen grounded; DRC Ituri clashes displace 136,000; Sudan drone strikes continue...",
     "hasAustralianAlert": true
@@ -120,7 +129,7 @@
     "id": "2026-03-17-daily",
     "date": "2026-03-17",
     "type": "daily",
-    "title": "Daily Update — Tuesday, 17 March 2026",
+    "title": "Daily Update \u2014 Tuesday, 17 March 2026",
     "filename": "humanitarian-update-daily-2026-03-17.md",
     "preview": "Australian aid coalition launches 15-agency Middle East Appeal; Iran conflict enters week 3 with 3.2M displaced; Gaza crossings remain sealed...",
     "hasAustralianAlert": true
@@ -129,25 +138,25 @@
     "id": "2026-03-17",
     "date": "2026-03-17",
     "type": "weekly",
-    "title": "Weekly Digest — 11 Mar–17 Mar 2026",
+    "title": "Weekly Digest \u2014 11 Mar\u201317 Mar 2026",
     "filename": "humanitarian-digest-weekly-2026-03-17.md",
-    "preview": "No new releases confirmed this week from ACFID, EAA, or DFAT within the March 11–17 window. The most recent ACFID statem...",
+    "preview": "No new releases confirmed this week from ACFID, EAA, or DFAT within the March 11\u201317 window. The most recent ACFID statem...",
     "hasAustralianAlert": false
   },
   {
     "id": "2026-03-14-daily",
     "date": "2026-03-14",
     "type": "daily",
-    "title": "Daily Update — Saturday, 14 March 2026",
+    "title": "Daily Update \u2014 Saturday, 14 March 2026",
     "filename": "humanitarian-update-daily-2026-03-14.md",
-    "preview": "**Australia launches global Declaration for the Protection of Humanitarian Personnel** — After a year-long diplomatic ef...",
+    "preview": "**Australia launches global Declaration for the Protection of Humanitarian Personnel** \u2014 After a year-long diplomatic ef...",
     "hasAustralianAlert": true
   },
   {
     "id": "2026-03-13-daily",
     "date": "2026-03-13",
     "type": "daily",
-    "title": "Daily Update — Friday, 13 March 2026",
+    "title": "Daily Update \u2014 Friday, 13 March 2026",
     "filename": "humanitarian-update-daily-2026-03-13.md",
     "preview": "",
     "hasAustralianAlert": true
@@ -156,7 +165,7 @@
     "id": "2026-03-12",
     "date": "2026-03-12",
     "type": "weekly",
-    "title": "Weekly Digest — Mar 6–12, 2026",
+    "title": "Weekly Digest \u2014 Mar 6\u201312, 2026",
     "filename": "humanitarian-digest-weekly-2026-03-12.md",
     "preview": "ACFID calls for civilian protection as Middle East war escalates. Australia commits $50M for Afghanistan. Myanmar earthquake response ongoing. Sudan passes 1,000 days of war.",
     "hasAustralianAlert": true
@@ -165,7 +174,7 @@
     "id": "2026-04-23-daily",
     "date": "2026-04-23",
     "type": "daily",
-    "title": "Daily Update — Thursday, 23 April 2026",
+    "title": "Daily Update \u2014 Thursday, 23 April 2026",
     "filename": "humanitarian-update-daily-2026-04-23.md",
     "preview": "No new items confirmed from Australian sources today. NZ floods: state of emergency in Wellington and Manawatu-Whanganui; one dead.",
     "hasAustralianAlert": false
@@ -174,18 +183,18 @@
     "id": "2026-04-25-daily",
     "date": "2026-04-25",
     "type": "daily",
-    "title": "Daily Update — Saturday, 25 April 2026",
+    "title": "Daily Update \u2014 Saturday, 25 April 2026",
     "filename": "humanitarian-update-daily-2026-04-25.md",
-    "preview": "Australia's Emergency Action Alliance — the 15-member coalition that channels Australian public donations into rapid international response — is",
+    "preview": "Australia's Emergency Action Alliance \u2014 the 15-member coalition that channels Australian public donations into rapid international response \u2014 is",
     "hasAustralianAlert": true
   },
   {
     "id": "2026-04-30-daily",
     "date": "2026-04-30",
     "type": "daily",
-    "title": "Daily Update — Thursday, 30 April 2026",
+    "title": "Daily Update \u2014 Thursday, 30 April 2026",
     "filename": "humanitarian-update-daily-2026-04-30.md",
-    "preview": "GDACS satellite monitoring detected more than 20 active forest fire incidents across Australia between 27–29 April 2026, all assessed at Green alert",
+    "preview": "GDACS satellite monitoring detected more than 20 active forest fire incidents across Australia between 27\u201329 April 2026, all assessed at Green alert",
     "hasAustralianAlert": true
   }
 ]
