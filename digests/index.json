@@ -232,5 +232,14 @@
     "filename": "humanitarian-update-daily-2026-05-05.md",
     "preview": "An ongoing drought condition across parts of eastern Australia continues to be tracked by GDACS (event DR 1018457). The Australia-2026 drought began",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-05-06-daily",
+    "date": "2026-05-06",
+    "type": "daily",
+    "title": "Daily Update \u2014 Wednesday, 6 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-06.md",
+    "preview": "Gaza bread crisis continues as bakeries struggle amid supply restrictions and surging costs seven months after ceasefire, with WFP supporting 26 bakeries across the Strip.",
+    "hasAustralianAlert": false
   }
 ]
