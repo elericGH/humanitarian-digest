@@ -331,5 +331,14 @@
     "filename": "humanitarian-update-daily-2026-05-14.md",
     "preview": "Australia's 2026\u201327 Federal Budget has maintained overseas aid funding, but ACFID calls for stronger investment as global instability mounts.",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-05-17-daily",
+    "date": "2026-05-17",
+    "type": "daily",
+    "title": "Daily Update \u2014 Sunday, 17 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-17.md",
+    "preview": "The Australian Council for International Development (ACFID) responded to the 2026-27 Federal Budget on 12 May, welcoming that aid funding was",
+    "hasAustralianAlert": false
   }
 ]
