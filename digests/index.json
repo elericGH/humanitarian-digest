@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-05-20-daily",
+    "date": "2026-05-20",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 20 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-20.md",
+    "preview": "No new items published in the last 24 hours from Australian priority humanitarian sources (ACFID, Emergency Action Alliance, DFAT).",
+    "hasAustralianAlert": false
+  },
+  {
     "id": "2026-05-16-daily",
     "date": "2026-05-16",
     "type": "daily",
