@@ -421,5 +421,14 @@
     "filename": "humanitarian-update-daily-2026-05-26.md",
     "preview": "The Emergency Action Alliance (EAA) currently has two active fundraising appeals running simultaneously for Australian member organisations: the",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-05-27-daily",
+    "date": "2026-05-27",
+    "type": "daily",
+    "title": "Daily Update \u2014 Wednesday, 27 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-27.md",
+    "preview": "Australia has boosted humanitarian support for Myanmar following the devastating earthquake that killed over 3,600 people, committing $3.5M for Australian NGOs to deliver food, water, sanitation, and health aid.",
+    "hasAustralianAlert": true
   }
 ]
