@@ -439,5 +439,14 @@
     "filename": "humanitarian-update-daily-2026-05-28.md",
     "preview": "No new ACFID or DFAT items in the 24-hour window. Australia remains a key partner in ongoing Pacific responses, including Tropical Cyclone Maila.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-05-30-daily",
+    "date": "2026-05-30",
+    "type": "daily",
+    "title": "Daily Update \u2014 Saturday, 30 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-30.md",
+    "preview": "Australia's aid sector faces mounting pressure as global crises intensify. ACFID welcomed the 2025-26 Federal Budget's commitment to protect the aid program",
+    "hasAustralianAlert": true
   }
 ]
