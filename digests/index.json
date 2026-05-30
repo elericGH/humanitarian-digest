@@ -448,5 +448,14 @@
     "filename": "humanitarian-update-daily-2026-05-30.md",
     "preview": "Australia's aid sector faces mounting pressure as global crises intensify. ACFID welcomed the 2025-26 Federal Budget's commitment to protect the aid program",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-05-31-daily",
+    "date": "2026-05-31",
+    "type": "daily",
+    "title": "Daily Update \u2014 Sunday, 31 May 2026",
+    "filename": "humanitarian-update-daily-2026-05-31.md",
+    "preview": "An ongoing drought affecting approximately 74,596 km2 of eastern Australia has now reached 59 days duration, with GDACS classifying it as a minor-to-moderate agricultural drought event.",
+    "hasAustralianAlert": true
   }
 ]
