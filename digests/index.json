@@ -484,5 +484,14 @@
     "filename": "humanitarian-update-daily-2026-06-03.md",
     "preview": "No new items from Australian sources in the past 24 hours. El Ni\u00f1o conditions developing raise Pacific extreme weather risk. Ebola outbreak in DRC and Uganda escalates.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-06-04-daily",
+    "date": "2026-06-04",
+    "type": "daily",
+    "title": "Daily Update \u2014 Thursday, 4 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-04.md",
+    "preview": "No new items dated 4 June 2026 were found from Australian-angle sources in the last 24 hours. The most recent ACFID item covers Australia",
+    "hasAustralianAlert": false
   }
 ]
