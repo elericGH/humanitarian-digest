@@ -493,5 +493,14 @@
     "filename": "humanitarian-update-daily-2026-06-04.md",
     "preview": "No new items dated 4 June 2026 were found from Australian-angle sources in the last 24 hours. The most recent ACFID item covers Australia",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-06-05-daily",
+    "date": "2026-06-05",
+    "type": "daily",
+    "title": "Daily Update \u2014 Friday, 5 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-05.md",
+    "preview": "No new items from ACFID or DFAT in the last 24 hours. The most recent ACFID media release remains dated 12 May 2026.",
+    "hasAustralianAlert": false
   }
 ]
