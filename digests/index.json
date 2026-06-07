@@ -520,5 +520,14 @@
     "filename": "humanitarian-update-daily-2026-06-07.md",
     "preview": "No new items from ACFID, DFAT, or the Emergency Action Alliance were published in the last 24 hours. The most significant Australia-adjacent",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-06-08",
+    "date": "2026-06-08",
+    "type": "weekly",
+    "title": "Weekly Digest \u2014 1 June 2026 \u2013 8 June 2026",
+    "filename": "humanitarian-digest-weekly-2026-06-08.md",
+    "preview": "No ACFID or DFAT crisis-hub updates published in the week's accessible feeds. However, wildfire activity across Australia, Tropical Cyclone Maila",
+    "hasAustralianAlert": true
   }
 ]
