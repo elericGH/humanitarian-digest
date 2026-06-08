@@ -529,5 +529,14 @@
     "filename": "humanitarian-digest-weekly-2026-06-08.md",
     "preview": "No ACFID or DFAT crisis-hub updates published in the week's accessible feeds. However, wildfire activity across Australia, Tropical Cyclone Maila",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-06-09-daily",
+    "date": "2026-06-09",
+    "type": "daily",
+    "title": "Daily Update \u2014 Tuesday, 9 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-09.md",
+    "preview": "The 8 June 2026 magnitude 7.8 earthquake off Mindanao in the southern Philippines triggered a Pacific-wide tsunami advisory that included",
+    "hasAustralianAlert": true
   }
 ]
