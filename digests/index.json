@@ -601,5 +601,14 @@
     "filename": "humanitarian-update-daily-2026-06-20.md",
     "preview": "Eastern Australia-2026 drought now in its 17th week, covering 159,232 km\u00b2 with mild to severe agricultural drought indicators, as global El Ni\u00f1o...",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-06-21-daily",
+    "date": "2026-06-21",
+    "type": "daily",
+    "title": "Daily Update \u2014 Sunday, 21 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-21.md",
+    "preview": "The Emergency Action Alliance (EAA) \u2014 the coalition of 15 leading Australian aid charities including ADRA Australia, CARE, Save the Children, and",
+    "hasAustralianAlert": true
   }
 ]
