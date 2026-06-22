@@ -610,5 +610,14 @@
     "filename": "humanitarian-update-daily-2026-06-21.md",
     "preview": "The Emergency Action Alliance (EAA) \u2014 the coalition of 15 leading Australian aid charities including ADRA Australia, CARE, Save the Children, and",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-06-23-daily",
+    "date": "2026-06-23",
+    "type": "daily",
+    "title": "Daily Update \u2014 Tuesday, 23 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-23.md",
+    "preview": "Eastern Australia continues to experience a drought event that has now lasted over 89 days, having begun in late February 2026. GDACS classifies the",
+    "hasAustralianAlert": true
   }
 ]
