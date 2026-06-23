@@ -619,5 +619,14 @@
     "filename": "humanitarian-update-daily-2026-06-23.md",
     "preview": "Eastern Australia continues to experience a drought event that has now lasted over 89 days, having begun in late February 2026. GDACS classifies the",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-06-22",
+    "date": "2026-06-22",
+    "type": "weekly",
+    "title": "Weekly Digest \u2014 15 June 2026 \u2013 22 June 2026",
+    "filename": "humanitarian-digest-weekly-2026-06-22.md",
+    "preview": "Australia was among 29 co-signing states on a joint statement at the UN Human Rights Council condemning RSF drone strikes on El Obeid, Sudan, with 500,000 civilians at risk.",
+    "hasAustralianAlert": true
   }
 ]
