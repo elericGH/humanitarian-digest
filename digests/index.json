@@ -628,5 +628,14 @@
     "filename": "humanitarian-digest-weekly-2026-06-22.md",
     "preview": "Australia was among 29 co-signing states on a joint statement at the UN Human Rights Council condemning RSF drone strikes on El Obeid, Sudan, with 500,000 civilians at risk.",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-06-25-daily",
+    "date": "2026-06-25",
+    "type": "daily",
+    "title": "Daily Update \u2014 Thursday, 25 June 2026",
+    "filename": "humanitarian-update-daily-2026-06-25.md",
+    "preview": "Australia is among 30 co-signatories to a joint statement at the UN Human Rights Council 62 raising alarm over escalating atrocity risks in El Obeid, Sudan.",
+    "hasAustralianAlert": true
   }
 ]
