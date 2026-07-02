@@ -646,5 +646,14 @@
     "filename": "humanitarian-update-daily-2026-07-02.md",
     "preview": "Severe winter weather is affecting southeastern Australia today, with riverine flood warnings active near Albury, NSW, Wangaratta and south of",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-02",
+    "date": "2026-07-02",
+    "type": "weekly",
+    "title": "Weekly Digest — 25 June 2026 – 2 July 2026",
+    "filename": "humanitarian-digest-weekly-2026-07-02.md",
+    "preview": "The 24 June double earthquake in Venezuela dominated the Australian humanitarian sector this week. ACFID launched a consolidated Venezuela Earthquake",
+    "hasAustralianAlert": true
   }
 ]
