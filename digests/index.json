@@ -655,5 +655,14 @@
     "filename": "humanitarian-digest-weekly-2026-07-02.md",
     "preview": "The 24 June double earthquake in Venezuela dominated the Australian humanitarian sector this week. ACFID launched a consolidated Venezuela Earthquake",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-03-daily",
+    "date": "2026-07-03",
+    "type": "daily",
+    "title": "Daily Update — Friday, 3 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-03.md",
+    "preview": "The Pacific Disaster Center's DisasterAware feed is carrying multiple active severe-weather warnings across Australia this morning (3 July AEST)",
+    "hasAustralianAlert": true
   }
 ]
