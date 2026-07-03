@@ -664,5 +664,14 @@
     "filename": "humanitarian-update-daily-2026-07-03.md",
     "preview": "The Pacific Disaster Center's DisasterAware feed is carrying multiple active severe-weather warnings across Australia this morning (3 July AEST)",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-04-daily",
+    "date": "2026-07-04",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 4 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-04.md",
+    "preview": "Super Typhoon Bavi threatens Guam and the Northern Mariana Islands. GDACS has issued an overall Red alert for Tropical Cyclone BAVI-26, a Category 5",
+    "hasAustralianAlert": false
   }
 ]
