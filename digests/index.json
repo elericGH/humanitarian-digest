@@ -673,5 +673,14 @@
     "filename": "humanitarian-update-daily-2026-07-04.md",
     "preview": "Super Typhoon Bavi threatens Guam and the Northern Mariana Islands. GDACS has issued an overall Red alert for Tropical Cyclone BAVI-26, a Category 5",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-07-05-daily",
+    "date": "2026-07-05",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 5 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-05.md",
+    "preview": "Super Typhoon Bavi has intensified into a Category 5 system with maximum sustained winds of 278 km/h and is bearing down on Guam and the Northern",
+    "hasAustralianAlert": false
   }
 ]
