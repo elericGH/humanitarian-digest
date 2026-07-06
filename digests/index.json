@@ -691,5 +691,14 @@
     "filename": "humanitarian-digest-weekly-2026-07-06.md",
     "preview": "The Venezuela earthquakes dominate the Australian sector's response agenda this week. ACFID's Venezuela Earthquake Appeal page confirms successive",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-07-daily",
+    "date": "2026-07-07",
+    "type": "daily",
+    "title": "Daily Update — Tuesday, 7 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-07.md",
+    "preview": "— Pacific & Asia-Pacific Super Typhoon Bavi has intensified dramatically, with GDACS tropical cyclone tracking reporting sustained winds of 287 km/h",
+    "hasAustralianAlert": false
   }
 ]
