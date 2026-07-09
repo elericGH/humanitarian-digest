@@ -709,5 +709,14 @@
     "filename": "humanitarian-update-daily-2026-07-09.md",
     "preview": "Super Typhoon BAVI-26 remains a GDACS Red-alert event, a Category 5 system with maximum sustained winds of 287 km/h that battered Guam and the Northern",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-07-10-daily",
+    "date": "2026-07-10",
+    "type": "daily",
+    "title": "Daily Update — Friday, 10 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-10.md",
+    "preview": "The US-Iran conflict escalated sharply on 9 July. Al Jazeera's live coverage reports US air strikes on the Iranian port cities of Bushehr, Chabahar",
+    "hasAustralianAlert": false
   }
 ]
