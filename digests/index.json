@@ -718,5 +718,14 @@
     "filename": "humanitarian-update-daily-2026-07-10.md",
     "preview": "The US-Iran conflict escalated sharply on 9 July. Al Jazeera's live coverage reports US air strikes on the Iranian port cities of Bushehr, Chabahar",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-07-11-daily",
+    "date": "2026-07-11",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 11 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-11.md",
+    "preview": "Fiji's escalating HIV outbreak is primarily a syringe-access crisis, argues a new analysis from ANU's Development Policy Centre: 48% of Fijians",
+    "hasAustralianAlert": true
   }
 ]
