@@ -727,5 +727,14 @@
     "filename": "humanitarian-update-daily-2026-07-11.md",
     "preview": "Fiji's escalating HIV outbreak is primarily a syringe-access crisis, argues a new analysis from ANU's Development Policy Centre: 48% of Fijians",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-12-daily",
+    "date": "2026-07-12",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 12 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-12.md",
+    "preview": "Typhoon Bavi made landfall in China's eastern Zhejiang province late Saturday night after authorities evacuated more than 1.7 million people, with",
+    "hasAustralianAlert": false
   }
 ]
