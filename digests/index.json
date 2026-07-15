@@ -736,5 +736,14 @@
     "filename": "humanitarian-update-daily-2026-07-12.md",
     "preview": "Typhoon Bavi made landfall in China's eastern Zhejiang province late Saturday night after authorities evacuated more than 1.7 million people, with",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-07-15-daily",
+    "date": "2026-07-15",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 15 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-15.md",
+    "preview": "Caritas Oceania and the Jubilee Australia Research Centre have launched an appeal alongside a report on the combined impact of climate change and",
+    "hasAustralianAlert": true
   }
 ]
