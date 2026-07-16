@@ -754,5 +754,14 @@
     "filename": "humanitarian-update-daily-2026-07-16.md",
     "preview": "Papua New Guinea has reshuffled the ministries responsible for disaster management. Prime Minister James Marape swore in six new ministers at",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-07-17-daily",
+    "date": "2026-07-17",
+    "type": "daily",
+    "title": "Daily Update — Friday, 17 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-17.md",
+    "preview": "Pacific and Indigenous community leaders are urging Australia to lead by example on climate change as it takes the driving seat at COP31 in Turkey",
+    "hasAustralianAlert": true
   }
 ]
