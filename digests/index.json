@@ -799,6 +799,14 @@
     "filename": "humanitarian-update-daily-2026-08-01.md",
     "preview": "No new items published within the last 24 hours were confirmed from ACFID, the Emergency Action Alliance, or DFAT.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-02-daily",
+    "date": "2026-08-02",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 2 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-02.md",
+    "preview": "No new items published in the last 24 hours from Australian priority humanitarian sources (ACFID, Emergency Action Alliance, DFAT).",
+    "hasAustralianAlert": false
   }
 ]
-
