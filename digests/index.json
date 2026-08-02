@@ -808,5 +808,15 @@
     "filename": "humanitarian-update-daily-2026-08-02.md",
     "preview": "No new items published in the last 24 hours from Australian priority humanitarian sources (ACFID, Emergency Action Alliance, DFAT).",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-03",
+    "date": "2026-08-03",
+    "type": "weekly",
+    "title": "Weekly Digest — 27 July 2026 – 3 August 2026",
+    "filename": "humanitarian-digest-weekly-2026-08-03.md",
+    "preview": "The week's dominant Australian-angle story is the Lowy Institute's ninth annual Pacific Aid Map, released in the last few days, which confirms",
+    "hasAustralianAlert": true
   }
 ]
+
