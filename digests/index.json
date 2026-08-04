@@ -826,5 +826,15 @@
     "filename": "humanitarian-update-daily-2026-08-04.md",
     "preview": "No new items published within the last 24 hours were confirmed across Australian, Pacific, MENA, or global sources. GDACS tracks two severe tropical cyclones, Genevieve-26 and Dolphin-26.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-05-daily",
+    "date": "2026-08-05",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 5 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-05.md",
+    "preview": "The ICRC's resident representative in Myanmar, Arnaud de Baecque, met with detained leader Daw Aung San Suu Kyi on 3 August 2026, reportedly her first public meeting",
+    "hasAustralianAlert": false
   }
 ]
+
