@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-08-06-daily",
+    "date": "2026-08-06",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 6 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-06.md",
+    "preview": "Two more localities in Sudan, Um Baru and Kernoi in North Darfur, fell into famine-level malnutrition as of 5 August 2026, marking a deadly expansion",
+    "hasAustralianAlert": false
+  },
+  {
     "id": "2026-07-31-daily",
     "date": "2026-07-31",
     "type": "daily",
@@ -837,4 +846,3 @@
     "hasAustralianAlert": false
   }
 ]
-
