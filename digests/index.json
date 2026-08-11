@@ -871,6 +871,15 @@
     "filename": "humanitarian-update-daily-2026-08-11.md",
     "preview": "Australia will invest $5.2 billion in official development assistance in 2026-27, an increase of $112 million, with more than three-quarters directed to the",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-08-12-daily",
+    "date": "2026-08-12",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 12 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-12.md",
+    "preview": "No qualifying Australian-angle humanitarian items were confirmed in the last 24 hours; recent regional context included ACFID's State of the Sector Report and DFAT/UNHCR Rohingya funding",
+    "hasAustralianAlert": false
   }
 ]
 
