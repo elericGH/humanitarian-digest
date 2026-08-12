@@ -880,6 +880,15 @@
     "filename": "humanitarian-update-daily-2026-08-12.md",
     "preview": "No qualifying Australian-angle humanitarian items were confirmed in the last 24 hours; recent regional context included ACFID's State of the Sector Report and DFAT/UNHCR Rohingya funding",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-13-daily",
+    "date": "2026-08-13",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 13 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-13.md",
+    "preview": "Foreign Minister Penny Wong tabled the new Australia-Fiji \"Ocean of Peace Alliance\" and the Vuvale Union Treaty in Parliament on 12 August,",
+    "hasAustralianAlert": true
   }
 ]
 
