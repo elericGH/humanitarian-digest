@@ -916,5 +916,14 @@
     "filename": "humanitarian-update-daily-2026-08-18.md",
     "preview": "No new items in the last 24 hours from ACFID, the Emergency Action Alliance, or DFAT specifically. ACFID's most recent substantive release was its State",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-19-daily",
+    "date": "2026-08-19",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 19 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-19.md",
+    "preview": "Flooding and landslides driven by the enhanced southwest monsoon combined with tropical cyclones Luis and Maymay have killed at least 26 people and",
+    "hasAustralianAlert": false
   }
 ]
