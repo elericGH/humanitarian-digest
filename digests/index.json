@@ -925,5 +925,14 @@
     "filename": "humanitarian-update-daily-2026-08-19.md",
     "preview": "Flooding and landslides driven by the enhanced southwest monsoon combined with tropical cyclones Luis and Maymay have killed at least 26 people and",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-20-daily",
+    "date": "2026-08-20",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 20 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-20.md",
+    "preview": "No new items.",
+    "hasAustralianAlert": false
   }
 ]
