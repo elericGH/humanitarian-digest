@@ -979,6 +979,14 @@
     "filename": "humanitarian-update-daily-2026-08-27.md",
     "preview": "No new items.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-08-29-daily",
+    "date": "2026-08-29",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 29 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-29.md",
+    "preview": "The Nepal-Tibet floods dominate the Australian humanitarian agenda. At least 41 Australians remain missing after Wednesday's flash flood tore through",
+    "hasAustralianAlert": true
   }
 ]
-
