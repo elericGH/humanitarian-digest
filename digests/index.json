@@ -27,15 +27,6 @@
     "hasAustralianAlert": true
   },
   {
-    "id": "2026-03-17-daily",
-    "date": "2026-03-17",
-    "type": "daily",
-    "title": "Daily Update — Tuesday, 17 March 2026",
-    "filename": "humanitarian-update-daily-2026-03-17.md",
-    "preview": "Australian aid coalition launches 15-agency Middle East Appeal; Iran conflict enters week 3 with 3.2M displaced; Gaza crossings remain sealed...",
-    "hasAustralianAlert": true
-  },
-  {
     "id": "2026-03-17",
     "date": "2026-03-17",
     "type": "weekly",
@@ -43,6 +34,15 @@
     "filename": "humanitarian-digest-weekly-2026-03-17.md",
     "preview": "No new releases confirmed this week from ACFID, EAA, or DFAT within the March 11–17 window. The most recent ACFID statem...",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-03-17-daily",
+    "date": "2026-03-17",
+    "type": "daily",
+    "title": "Daily Update — Tuesday, 17 March 2026",
+    "filename": "humanitarian-update-daily-2026-03-17.md",
+    "preview": "Australian aid coalition launches 15-agency Middle East Appeal; Iran conflict enters week 3 with 3.2M displaced; Gaza crossings remain sealed...",
+    "hasAustralianAlert": true
   },
   {
     "id": "2026-03-18-daily",
@@ -639,21 +639,21 @@
     "hasAustralianAlert": true
   },
   {
-    "id": "2026-07-02-daily",
-    "date": "2026-07-02",
-    "type": "daily",
-    "title": "Daily Update — Thursday, 2 July 2026",
-    "filename": "humanitarian-update-daily-2026-07-02.md",
-    "preview": "Severe winter weather is affecting southeastern Australia today, with riverine flood warnings active near Albury, NSW, Wangaratta and south of",
-    "hasAustralianAlert": true
-  },
-  {
     "id": "2026-07-02",
     "date": "2026-07-02",
     "type": "weekly",
     "title": "Weekly Digest — 25 June 2026 – 2 July 2026",
     "filename": "humanitarian-digest-weekly-2026-07-02.md",
     "preview": "The 24 June double earthquake in Venezuela dominated the Australian humanitarian sector this week. ACFID launched a consolidated Venezuela Earthquake",
+    "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-02-daily",
+    "date": "2026-07-02",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 2 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-02.md",
+    "preview": "Severe winter weather is affecting southeastern Australia today, with riverine flood warnings active near Albury, NSW, Wangaratta and south of",
     "hasAustralianAlert": true
   },
   {
@@ -765,21 +765,21 @@
     "hasAustralianAlert": true
   },
   {
-    "id": "2026-07-30-daily",
-    "date": "2026-07-30",
-    "type": "daily",
-    "title": "Daily Update — Thursday, 30 July 2026",
-    "filename": "humanitarian-update-daily-2026-07-30.md",
-    "preview": "The Lowy Institute Pacific Aid Map shows Australia remains by far the leading provider of grants and loans to the Pacific, disbursing US$1.5 billion in 2024, more than three times New",
-    "hasAustralianAlert": true
-  },
-  {
     "id": "2026-07-30",
     "date": "2026-07-30",
     "type": "weekly",
     "title": "Weekly Digest — 23 July 2026 – 30 July 2026",
     "filename": "humanitarian-digest-weekly-2026-07-30.md",
     "preview": "The Lowy Institute published its 2026 Pacific Aid Map Report around 28 July, confirming Australia as by far the dominant Pacific aid partner.",
+    "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-07-30-daily",
+    "date": "2026-07-30",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 30 July 2026",
+    "filename": "humanitarian-update-daily-2026-07-30.md",
+    "preview": "The Lowy Institute Pacific Aid Map shows Australia remains by far the leading provider of grants and loans to the Pacific, disbursing US$1.5 billion in 2024, more than three times New",
     "hasAustralianAlert": true
   },
   {
@@ -988,5 +988,15 @@
     "filename": "humanitarian-update-daily-2026-08-29.md",
     "preview": "The Nepal-Tibet floods dominate the Australian humanitarian agenda. At least 41 Australians remain missing after Wednesday's flash flood tore through",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-08-30-daily",
+    "date": "2026-08-30",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 30 August 2026",
+    "filename": "humanitarian-update-daily-2026-08-30.md",
+    "preview": "The Albanese government has pledged $5 million in humanitarian assistance for Nepal following the catastrophic Nepal-Tibet border floods, with $2",
+    "hasAustralianAlert": true
   }
 ]
+
