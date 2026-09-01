@@ -1006,5 +1006,14 @@
     "filename": "humanitarian-digest-weekly-2026-09-01.md",
     "preview": "Foreign Minister Penny Wong announced a further $3 million in humanitarian assistance on 31 August, a second tranche of support that brings Australia's total pledge",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-09-01-daily",
+    "date": "2026-09-01",
+    "type": "daily",
+    "title": "Daily Update \u2014 Tuesday, 1 September 2026",
+    "filename": "humanitarian-update-daily-2026-09-01.md",
+    "preview": "Emergency Action Alliance directs media to the ongoing Nepal flood catastrophe response, with a live Nepal Flood Appeal donation channel and dedicated media",
+    "hasAustralianAlert": true
   }
 ]
