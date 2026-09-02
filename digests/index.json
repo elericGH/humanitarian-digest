@@ -1024,5 +1024,14 @@
     "filename": "humanitarian-update-daily-2026-09-02.md",
     "preview": "GDACS is tracking a cluster of active tropical cyclones as of 1 September 2026: Typhoon Karina (231 km/h) and Typhoon Lowell (194 km/h), both",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-09-03-daily",
+    "date": "2026-09-03",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 3 September 2026",
+    "filename": "humanitarian-update-daily-2026-09-03.md",
+    "preview": "The Nepal-Tibet flood disaster remains the dominant Australian-interest story. Prime Minister Anthony Albanese, speaking from Palau where he is",
+    "hasAustralianAlert": true
   }
 ]
