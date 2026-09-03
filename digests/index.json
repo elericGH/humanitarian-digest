@@ -1033,5 +1033,15 @@
     "filename": "humanitarian-update-daily-2026-09-03.md",
     "preview": "The Nepal-Tibet flood disaster remains the dominant Australian-interest story. Prime Minister Anthony Albanese, speaking from Palau where he is",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-09-04-daily",
+    "date": "2026-09-04",
+    "type": "daily",
+    "title": "Daily Update — Friday, 4 September 2026",
+    "filename": "humanitarian-update-daily-2026-09-04.md",
+    "preview": "Australia has ramped up its response to the Nepal-Tibet flood disaster, deploying a 15-person team of specialist drone operators to support search-and-rescue efforts as the confirmed death toll reached around 1,200",
+    "hasAustralianAlert": true
   }
 ]
+
