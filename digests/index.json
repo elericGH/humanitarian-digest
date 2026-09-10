@@ -1060,5 +1060,15 @@
     "filename": "humanitarian-update-daily-2026-09-08.md",
     "preview": "Australia remains among the nations supporting Nepal's flood response, with Nepal's Ministry of Foreign Affairs confirming in its 7 September situation update",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-09-10-daily",
+    "date": "2026-09-10",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 10 September 2026",
+    "filename": "humanitarian-update-daily-2026-09-10.md",
+    "preview": "Australia and Solomon Islands have reached an in-principle agreement on a sweeping new bilateral treaty, with Canberra committing close to A$980 million in support",
+    "hasAustralianAlert": true
   }
 ]
+
