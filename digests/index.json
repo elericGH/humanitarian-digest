@@ -1096,5 +1096,14 @@
     "filename": "humanitarian-update-daily-2026-09-27.md",
     "preview": "The Next Century Foundation's weekly Gaza Information Index, updated 26 September 2026, reports that UN partners completed repairs on 21 September to",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-09-27",
+    "date": "2026-09-27",
+    "type": "weekly",
+    "title": "Weekly Digest — 20 September 2026 – 27 September 2026",
+    "filename": "humanitarian-digest-weekly-2026-09-27.md",
+    "preview": "Australia leads MIKTA joint statement on protecting humanitarian personnel from disinformation; Declaration for Protection of Humanitarian Personnel wins landmark UN support. Australia-Ukraine security pact signed. Aid remains at 0.63% of Budget.",
+    "hasAustralianAlert": true
   }
 ]
