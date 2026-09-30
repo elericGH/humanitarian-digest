@@ -1123,5 +1123,14 @@
     "filename": "humanitarian-update-daily-2026-09-30.md",
     "preview": "Nepal flood response expanded to AUD11 million. The ANU Development Policy Centre's September aid roundup, published this morning, highlights the",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-10-01-daily",
+    "date": "2026-10-01",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 1 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-01.md",
+    "preview": "Australia has committed an additional AUD3 million and deployed specialist drone operators to support Nepal's recovery from the August flood…",
+    "hasAustralianAlert": true
   }
 ]
