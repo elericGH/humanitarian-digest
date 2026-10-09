@@ -1141,5 +1141,14 @@
     "filename": "humanitarian-digest-weekly-2026-10-09.md",
     "preview": "Papua New Guinea's El Niño drought declared a humanitarian emergency. PNG's Minister for Health and National Disaster Services, Billy Joseph, told a National Disaster",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-10-09-daily",
+    "date": "2026-10-09",
+    "type": "daily",
+    "title": "Daily Update — Friday, 9 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-09.md",
+    "preview": "Australia announced an AUD 7.29 million (about US$5.1 million) renewable energy package for the Pacific, including support for Vanuatu's transition",
+    "hasAustralianAlert": true
   }
 ]
