@@ -1150,5 +1150,14 @@
     "filename": "humanitarian-update-daily-2026-10-09.md",
     "preview": "Australia announced an AUD 7.29 million (about US$5.1 million) renewable energy package for the Pacific, including support for Vanuatu's transition",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-10-16-daily",
+    "date": "2026-10-16",
+    "type": "daily",
+    "title": "Daily Update — Friday, 16 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-16.md",
+    "preview": "Al Jazeera reports that fighting in Yemen is intensifying, with coverage of the latest battlefield developments dated 15 October 2026.",
+    "hasAustralianAlert": false
   }
 ]
