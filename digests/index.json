@@ -1159,5 +1159,14 @@
     "filename": "humanitarian-update-daily-2026-10-16.md",
     "preview": "Cook Islands cyclone alert. The Cook Islands Meteorological Service has put a tropical cyclone alert in force as tropical depression TD01F intensifies.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-17-daily",
+    "date": "2026-10-17",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 17 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-17.md",
+    "preview": "Cook Islands cyclone alert. The Cook Islands Metservice warned that tropical depression TD01F could reach category 1 strength within 24 hours while",
+    "hasAustralianAlert": false
   }
 ]
