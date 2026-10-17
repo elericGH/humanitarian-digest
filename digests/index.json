@@ -1168,5 +1168,14 @@
     "filename": "humanitarian-update-daily-2026-10-17.md",
     "preview": "Cook Islands cyclone alert. The Cook Islands Metservice warned that tropical depression TD01F could reach category 1 strength within 24 hours while",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-18-daily",
+    "date": "2026-10-18",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 18 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-18.md",
+    "preview": "Typhoon Champi (Guam / Marianas). Guam remains under its highest typhoon alert as Category 4 Typhoon Champi is expected to pass just south of or over",
+    "hasAustralianAlert": false
   }
 ]
