@@ -1177,5 +1177,14 @@
     "filename": "humanitarian-update-daily-2026-10-18.md",
     "preview": "Typhoon Champi (Guam / Marianas). Guam remains under its highest typhoon alert as Category 4 Typhoon Champi is expected to pass just south of or over",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-19-daily",
+    "date": "2026-10-19",
+    "type": "daily",
+    "title": "Daily Update — Monday, 19 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-19.md",
+    "preview": "Tropical Cyclone Wati (Cook Islands). The Category 2 cyclone was forecast to pass over Aitutaki on Sunday local time, tracking over Mauke and",
+    "hasAustralianAlert": false
   }
 ]
