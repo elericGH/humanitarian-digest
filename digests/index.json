@@ -1213,5 +1213,14 @@
     "filename": "humanitarian-update-daily-2026-10-22.md",
     "preview": "El Niño warning covers Asia and the Pacific. At a joint press conference with the WMO in Geneva on 21 October, UN Emergency Relief Coordinator Tom",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-23-daily",
+    "date": "2026-10-23",
+    "type": "daily",
+    "title": "Daily Update — Friday, 23 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-23.md",
+    "preview": "Bougainville independence debate, Papua New Guinea. RNZ Pacific reports that emotional scars from Bougainville's history surfaced as PNG's parliament",
+    "hasAustralianAlert": false
   }
 ]
