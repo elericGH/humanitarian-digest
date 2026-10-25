@@ -1240,5 +1240,14 @@
     "filename": "humanitarian-update-daily-2026-10-25.md",
     "preview": "Magnitude 7.2 earthquake off Vanuatu; tsunami warning cancelled. RNZ reports that a tsunami warning was cancelled following a 7.2 magnitude",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-26-daily",
+    "date": "2026-10-26",
+    "type": "daily",
+    "title": "Daily Update — Monday, 26 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-26.md",
+    "preview": "Indo-Pacific Defense Forum published \"China's research ships linger longer than others near undersea cables, study shows\" (headline only) on 26 Oct,",
+    "hasAustralianAlert": false
   }
 ]
