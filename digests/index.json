@@ -1267,5 +1267,14 @@
     "filename": "humanitarian-update-daily-2026-10-28.md",
     "preview": "Papua New Guinea – West New Britain: Police confirmed 12 men died after an alleged armed robbery at a tradestore in Kimbe on",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-29-daily",
+    "date": "2026-10-29",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 29 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-29.md",
+    "preview": "Solomon Islands Prime Minister Matthew Wale has been flown to Australia for \"urgent medical treatment\", the Solomon Islands government announced on",
+    "hasAustralianAlert": true
   }
 ]
