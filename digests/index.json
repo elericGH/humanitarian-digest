@@ -1276,5 +1276,14 @@
     "filename": "humanitarian-update-daily-2026-10-29.md",
     "preview": "Solomon Islands Prime Minister Matthew Wale has been flown to Australia for \"urgent medical treatment\", the Solomon Islands government announced on",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-10-30-daily",
+    "date": "2026-10-30",
+    "type": "daily",
+    "title": "Daily Update — Friday, 30 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-30.md",
+    "preview": "The Pacific Cyclone Watch Service has been activated ahead of the South Pacific cyclone season, which officially begins on 1 November",
+    "hasAustralianAlert": false
   }
 ]
