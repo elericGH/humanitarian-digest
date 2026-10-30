@@ -1285,5 +1285,14 @@
     "filename": "humanitarian-update-daily-2026-10-30.md",
     "preview": "The Pacific Cyclone Watch Service has been activated ahead of the South Pacific cyclone season, which officially begins on 1 November",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-10-31-daily",
+    "date": "2026-10-31",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 31 October 2026",
+    "filename": "humanitarian-update-daily-2026-10-31.md",
+    "preview": "Vanuatu and the United Nations launched a government-led Anticipatory Action Framework for Tropical Cyclones in Port Vila on 30 October.",
+    "hasAustralianAlert": false
   }
 ]
