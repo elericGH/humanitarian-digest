@@ -1321,5 +1321,14 @@
     "filename": "humanitarian-update-daily-2026-11-03.md",
     "preview": "Nepal flood recovery. The Association of Medical Doctors of Asia (AMDA) reports that, following severe flooding and landslides near the Nepal–China",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-04-daily",
+    "date": "2026-11-04",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 4 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-04.md",
+    "preview": "The Pacific Public Health Surveillance Network's epidemic alert map as of 3 November records 1,064 laboratory-confirmed dengue cases in",
+    "hasAustralianAlert": false
   }
 ]
