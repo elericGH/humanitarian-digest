@@ -1330,5 +1330,14 @@
     "filename": "humanitarian-update-daily-2026-11-04.md",
     "preview": "The Pacific Public Health Surveillance Network's epidemic alert map as of 3 November records 1,064 laboratory-confirmed dengue cases in",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-05-daily",
+    "date": "2026-11-05",
+    "type": "daily",
+    "title": "Daily Update — Thursday, 5 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-05.md",
+    "preview": "A Fijian parliamentary committee has advised against immediate ratification of the Fiji–Australia Vuvale Union and the Ocean of Peace Alliance",
+    "hasAustralianAlert": true
   }
 ]
