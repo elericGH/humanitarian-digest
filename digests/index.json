@@ -1357,5 +1357,14 @@
     "filename": "humanitarian-update-daily-2026-11-07.md",
     "preview": "The ICRC published a news release (6 Nov, 14:56 Sydney time) on a meeting in Australia of naval officers from across the Indo-Pacific on the laws of",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-11-08-daily",
+    "date": "2026-11-08",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 8 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-08.md",
+    "preview": "Indo-Pacific Defense Forum published a commentary on how Beijing and Moscow's support for Iran's war is inflicting collateral costs on the",
+    "hasAustralianAlert": false
   }
 ]
