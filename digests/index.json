@@ -1411,5 +1411,14 @@
     "filename": "humanitarian-update-daily-2026-11-13.md",
     "preview": "Emergency Action Alliance publishes 6-month report on its Middle East Humanitarian Appeal. EAA launched the appeal in March 2026; it says almost $1.9 million",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-11-14-daily",
+    "date": "2026-11-14",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 14 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-14.md",
+    "preview": "ACFID published (13 Nov) a report of the Pre-COP31 stakeholder session held in Nadi, Fiji on 6 October 2026, organised by ACFID and the Pacific",
+    "hasAustralianAlert": true
   }
 ]
