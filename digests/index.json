@@ -1420,5 +1420,14 @@
     "filename": "humanitarian-update-daily-2026-11-14.md",
     "preview": "ACFID published (13 Nov) a report of the Pre-COP31 stakeholder session held in Nadi, Fiji on 6 October 2026, organised by ACFID and the Pacific",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-11-15-daily",
+    "date": "2026-11-15",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 15 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-15.md",
+    "preview": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people, including a five-year-old child, and wounded 18 others, according to rescuers",
+    "hasAustralianAlert": false
   }
 ]
