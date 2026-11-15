@@ -1429,5 +1429,14 @@
     "filename": "humanitarian-update-daily-2026-11-15.md",
     "preview": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people, including a five-year-old child, and wounded 18 others, according to rescuers",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-16-daily",
+    "date": "2026-11-16",
+    "type": "daily",
+    "title": "Daily Update — Monday, 16 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-16.md",
+    "preview": "Tropical Cyclone Xavier intensified into a category 1 cyclone on Sunday night, and the Cook Islands Meteorological Service has a storm warning in force for Manihiki",
+    "hasAustralianAlert": false
   }
 ]
