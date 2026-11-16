@@ -1438,5 +1438,14 @@
     "filename": "humanitarian-update-daily-2026-11-16.md",
     "preview": "Tropical Cyclone Xavier intensified into a category 1 cyclone on Sunday night, and the Cook Islands Meteorological Service has a storm warning in force for Manihiki",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-17-daily",
+    "date": "2026-11-17",
+    "type": "daily",
+    "title": "Daily Update — Tuesday, 17 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-17.md",
+    "preview": "Australia joins Canada, Italy and the UK in urging Israel to let shelter aid into Gaza. A joint statement by the four Foreign Ministers says the",
+    "hasAustralianAlert": true
   }
 ]
