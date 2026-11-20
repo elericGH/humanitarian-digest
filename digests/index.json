@@ -1474,5 +1474,14 @@
     "filename": "humanitarian-update-daily-2026-11-20.md",
     "preview": "Tonga declares state of emergency over El Niño drought. Tonga's government has declared a 27-day state of emergency, effective from 11am on 19",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-21-daily",
+    "date": "2026-11-21",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 21 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-21.md",
+    "preview": "Cook Islands declares a state of emergency for Nassau Island ahead of Tropical Cyclone Xavier, with the storm forecast to pass south this weekend.",
+    "hasAustralianAlert": false
   }
 ]
