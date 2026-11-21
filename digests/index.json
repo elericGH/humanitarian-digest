@@ -1483,5 +1483,14 @@
     "filename": "humanitarian-update-daily-2026-11-21.md",
     "preview": "Cook Islands declares a state of emergency for Nassau Island ahead of Tropical Cyclone Xavier, with the storm forecast to pass south this weekend.",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-22-daily",
+    "date": "2026-11-22",
+    "type": "daily",
+    "title": "Daily Update — Sunday, 22 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-22.md",
+    "preview": "Cook Islands government says the state of emergency for Nassau remains in force as Tropical Cyclone Xavier continues to weaken. All 84 residents of",
+    "hasAustralianAlert": false
   }
 ]
