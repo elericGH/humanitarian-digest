@@ -1492,5 +1492,14 @@
     "filename": "humanitarian-update-daily-2026-11-22.md",
     "preview": "Cook Islands government says the state of emergency for Nassau remains in force as Tropical Cyclone Xavier continues to weaken. All 84 residents of",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-23-daily",
+    "date": "2026-11-23",
+    "type": "daily",
+    "title": "Daily Update — Monday, 23 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-23.md",
+    "preview": "COP31 climate talks collapse; Australia holds the negotiations presidency. UN climate talks ended on Sunday without a deal after the EU and others",
+    "hasAustralianAlert": true
   }
 ]
