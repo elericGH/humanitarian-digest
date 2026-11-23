@@ -1501,5 +1501,14 @@
     "filename": "humanitarian-update-daily-2026-11-23.md",
     "preview": "COP31 climate talks collapse; Australia holds the negotiations presidency. UN climate talks ended on Sunday without a deal after the EU and others",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-11-24-daily",
+    "date": "2026-11-24",
+    "type": "daily",
+    "title": "Daily Update — Tuesday, 24 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-24.md",
+    "preview": "Tonga drought response. An environmental NGO, Live 'n Learn Tonga, supplied water tanks to 47 households on the Ha'apai islands of Mo'unga'one,",
+    "hasAustralianAlert": false
   }
 ]
