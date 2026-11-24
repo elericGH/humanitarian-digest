@@ -1510,5 +1510,14 @@
     "filename": "humanitarian-update-daily-2026-11-24.md",
     "preview": "Tonga drought response. An environmental NGO, Live 'n Learn Tonga, supplied water tanks to 47 households on the Ha'apai islands of Mo'unga'one,",
     "hasAustralianAlert": false
+  },
+  {
+    "id": "2026-11-25-daily",
+    "date": "2026-11-25",
+    "type": "daily",
+    "title": "Daily Update — Wednesday, 25 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-25.md",
+    "preview": "Australia joined the foreign ministers of Belgium, Canada, Cyprus, Czech Republic, Estonia, Iceland, Latvia, Luxembourg, New Zealand, Portugal,",
+    "hasAustralianAlert": true
   }
 ]
