@@ -1537,5 +1537,14 @@
     "filename": "humanitarian-update-daily-2026-11-27.md",
     "preview": "ACFID published \"ACFID welcomes inquiry recognising aid as a key tool for conflict prevention\" on 26 Nov (13:01 Sydney).",
     "hasAustralianAlert": true
+  },
+  {
+    "id": "2026-11-28-daily",
+    "date": "2026-11-28",
+    "type": "daily",
+    "title": "Daily Update — Saturday, 28 November 2026",
+    "filename": "humanitarian-update-daily-2026-11-28.md",
+    "preview": "PNG parliament nears Bougainville vote. RNZ Pacific reports PNG MPs are expected to vote on Wednesday 2 December on whether to ratify the result",
+    "hasAustralianAlert": false
   }
 ]
